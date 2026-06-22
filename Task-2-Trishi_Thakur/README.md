@@ -31,7 +31,7 @@ The data science pipeline structured in this project follows a strict execution 
 ---
 
 ## Core Project Files
-* **`Project-2-Data-Classification-Iris flower dataset.ipynb`** — The production-grade Jupyter Notebook containing the full end-to-end data pipelines, scaling transformations, hyperparameter elbow plotting, and statistical diagnostic visualizations.
+* **`Task-2-Trishi_Thakur.ipynb`** — The production-grade Jupyter Notebook containing the full end-to-end data pipelines, scaling transformations, hyperparameter elbow plotting, and statistical diagnostic visualizations.
 
 ---
 
@@ -53,7 +53,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ### 2. Execution Flow:
 Open your terminal window inside the root directory and start your notebook platform or execute via Jupyter:
 ```bash
-jupyter notebook "Project-2-Data-Classification-Iris flower dataset.ipynb"
+jupyter notebook "Task-2-Trishi_Thakur.ipynb"
 ```
 
 ---

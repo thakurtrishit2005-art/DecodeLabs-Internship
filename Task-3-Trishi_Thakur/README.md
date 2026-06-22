@@ -32,7 +32,7 @@ The application acts as an assembly pipeline processing spatial alignments[cite:
 ---
 
 ## Core Project Files
-* **`matchmaker.py`** — The principal Python executable script housing onboarding interfaces, vector initialization, TF-IDF mapping layers, and cosine calculations.
+* **`Task-3-Trishi_Thakur.py`** — The principal Python executable script housing onboarding interfaces, vector initialization, TF-IDF mapping layers, and cosine calculations.
 * **`raw_skills.csv`** — The structural reference data catalog containing text profiles of target career pathways and technical skill lists[cite: 5].
 
 ---
@@ -56,7 +56,7 @@ pip install pandas numpy scikit-learn
 ### 2. Execution Flow:
 Ensure raw_skills.csv is located in the exact same directory folder path as matchmaker.py, then run[cite: 5]:
 ```bash
-python matchmaker.py
+python Task-3-Trishi_Thakur.py
 ```
 
 ---

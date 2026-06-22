@@ -30,7 +30,7 @@ The system utilizes a structured execution lifecycle to continuously process use
 ---
 
 ## Core Project Files
-* **`chatbot.py`** — The principal executable script containing the core control loops, sanitization, tracking structures, and interactive command interfaces.
+* **`Task-1-Trishi_Thakur.py`** — The principal executable script containing the core control loops, sanitization, tracking structures, and interactive command interfaces.
 
 ---
 
@@ -46,7 +46,7 @@ The system utilizes a structured execution lifecycle to continuously process use
 Ensure you have Python installed on your local environment (Python 3.x recommended). Run the executable script via your standard command interface:
 
 ```bash
-python chatbot.py
+python Task-1-Trishi_Thakur.py
 ```
 
 ### Example Interaction Block:
